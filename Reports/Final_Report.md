@@ -42,7 +42,7 @@ Using Python and Sweetviz:
 * Checked correlation between variables
 * Identified missing values and inconsistencies
 * Observed trends in outlet performance
-![Overview](Reports/SweetViz/figures/02overview.png)
+![Overview](SweetViz/figures/02overview.png)
 ---
 
 ## 🧮 SQL Analysis
