@@ -110,7 +110,7 @@ An interactive dashboard was created to visualize:
 * Python visualizations (Matplotlib & Seaborn)
 * Power BI interactive dashboard
 * SQL query outputs
-
+![Overview](Screenshots/TotalSalesbyfatContent.png)
 ---
 
 ## 🚀 Conclusion
