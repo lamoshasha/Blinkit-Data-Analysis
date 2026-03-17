@@ -136,8 +136,3 @@ This project demonstrates how data analysis can provide actionable insights into
 * Enhance dashboard interactivity
 
 ---
-
-## 👑 Author
-
-Blinkit Data Analysis Project
-Developed as part of a data analytics portfolio project
