@@ -104,7 +104,7 @@ An interactive dashboard was created to visualize:
  ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="Reports/Screenshots/Tableau Dashboard.png" width="700">
+  <img src="Screenshots/Tableau Dashboard.png" width="700">
 </p>
 
 ---
