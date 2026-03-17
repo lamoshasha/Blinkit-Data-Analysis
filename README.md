@@ -20,7 +20,7 @@ The project uncovers key business insights related to sales performance, custome
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="reports/figures/dashboard.png" width="700">
+  <img src="tableau/Screenshots/Tableau Dashboard.png" width="700">
 </p>
 
 ---
