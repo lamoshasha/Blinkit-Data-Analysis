@@ -101,6 +101,11 @@ An interactive dashboard was created to visualize:
 * Sales by item type
 * Outlet-wise performance
 * Filters for item type, outlet size, and location
+ ## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="tableau/Screenshots/Tableau Dashboard.png" width="700">
+</p>
 
 ---
 
